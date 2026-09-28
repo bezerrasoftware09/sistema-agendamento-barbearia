@@ -2,6 +2,10 @@
 
 Sistema web de agendamento online desenvolvido para facilitar o gerenciamento de horários de uma barbearia.
 
+## 🖥️ Preview do sistema
+
+![Preview do Sistema de Agendamento para Barbearia](imagens/tela-principal-barbearia.png)
+
 ## 🌐 Projeto publicado
 
 Acesse o sistema:
